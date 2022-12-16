@@ -20,6 +20,7 @@ Project developed according to Rocketseat's Ignite Lab event in order to create 
    - [X] NodeJS
    - [x] NestJS
    - [x] Jest
+   - [x] Prisma
    
    ![image](https://user-images.githubusercontent.com/104099580/208196577-2867bd15-0905-4181-9025-04d0be5edaf4.png)
 
